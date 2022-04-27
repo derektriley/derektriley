@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=derektriley)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derektriley&theme=dark" />
 </a>
