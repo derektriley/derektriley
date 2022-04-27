@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=derektriley)
+<div>![Leetcode Stats](https://leetcode.card.workers.dev/?username=derektriley)</div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derektriley&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api?username=derektriley&count_private=true&theme=dark&show_icons=true" />
 
