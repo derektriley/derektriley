@@ -1,12 +1,8 @@
 ### Hi there 👋
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=derektriley)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derektriley&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=derektriley&count_private=true&theme=dark&show_icons=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derektriley&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=derektriley&count_private=true&theme=dark&show_icons=true" />
 
 <!--
 **derektriley/derektriley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
