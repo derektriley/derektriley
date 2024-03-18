@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/derektriley?theme=dark&ext=heatmap)
-
 <!--
 **derektriley/derektriley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
